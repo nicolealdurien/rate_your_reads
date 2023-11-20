@@ -1,4 +1,4 @@
-# vue_book_reviews
+# rate_your_reads
 
 This template should help get you started developing with Vue 3 in Vite.
 
